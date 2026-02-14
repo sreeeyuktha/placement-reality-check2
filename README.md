@@ -2,98 +2,134 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# Placement Reality Check System🎯
+# Placement Reality Check System 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name:
+Sreeyuktha (Individual Participant)
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Sreeyuktha - [Your College Name]
 
 ### Hosted Project Link
- https://sreeeyuktha.github.io/placement-reality-check2/
+https://sreeeyuktha.github.io/placement-reality-check2/
 
-### Project Description
-Placement Reality Check System is a web-based tool that evaluates a student's readiness for their dream job.
-It compares user-entered skills with job role requirements and identifies matched and missing skills.
-The system generates a readiness score and personalized feedback to help students improve their placement chances.
+---
 
-### The Problem statement
-Many students are unsure whether their current skills match the requirements of their dream job.
-They often apply for placements without knowing the skill gaps, which reduces their chances of selection.
-There is a need for a simple system that analyzes skills and provides clear feedback on job readiness.
+## Project Description
 
-### The Solution
+Placement Reality Check System is a web-based application designed to evaluate a student's readiness for their dream job.  
+It compares user-entered skills with predefined job role requirements and identifies matched and missing skills.  
+The system generates a readiness score along with personalized feedback to help students strategically improve their placement preparation.
 
-The Placement Reality Check System allows users to enter their skills and select a desired job role.
-The system compares the entered skills with predefined job requirements and identifies matched and missing skills.
-It then generates a readiness score and feedback to help students improve strategically.
+---
 
+## The Problem Statement
 
-## Technical Details
+Many students apply for placements without clearly understanding whether their skills match industry requirements.  
+This lack of awareness about skill gaps reduces their chances of getting selected.  
+Students need a simple and accessible system that evaluates their skills and provides clear insights into their job readiness.
 
-### Technologies/Components Used
+---
 
-**For Software:**
+## The Solution
 
--Languages used: HTML, CSS, JavaScript
+The Placement Reality Check System provides an interactive platform where users can enter their skills and select a desired job role.  
+The system analyzes the entered skills against predefined job requirements and highlights matched and missing skills.  
+It then calculates a placement readiness score and provides feedback to help students focus on improving the right areas.
 
--Frameworks used: None (Vanilla JavaScript)
+---
 
--Libraries used: None
+# Technical Details
 
--Tools used: VS Code, Git, GitHub, Web Browser
+## Technologies/Components Used
 
-**For Hardware:**
+### For Software:
 
--Main components: Computer/Laptop
+- **Languages used:** HTML, CSS, JavaScript  
+- **Frameworks used:** None (Vanilla JavaScript)  
+- **Libraries used:** None  
+- **Tools used:** VS Code, Git, GitHub, Web Browser  
 
--Specifications: Minimum 4GB RAM, Modern web browser (Chrome/Edge/Firefox)
+### For Hardware:
 
--Tools required: Internet connection, Code editor
+- **Main components:** Laptop/Desktop Computer  
+- **Specifications:** Minimum 4GB RAM, Modern Web Browser (Chrome, Edge, Firefox)  
+- **Tools required:** Internet connection, Code editor  
 
 ---
 
 ## Features
 
--Feature 1: Skill Input System
-Users can enter their technical skills in a simple comma-separated format.
+- **Feature 1: Skill Input System**  
+  Users can enter their technical skills in a simple comma-separated format.
 
--Feature 2: Job Role Selection
-Users can select their dream job from a predefined list of roles.
+- **Feature 2: Job Role Selection**  
+  Users can choose their desired job role from a predefined list.
 
--Feature 3: Skill Matching Analysis
-The system compares user skills with required job skills and identifies matched and missing skills.
+- **Feature 3: Skill Matching Analysis**  
+  The system compares user skills with required job skills and identifies matched and missing skills.
 
--Feature 4: Readiness Score & Feedback
-Generates a placement readiness score along with suggestions for improvement.
+- **Feature 4: Readiness Score & Feedback**  
+  Generates a placement readiness score along with improvement suggestions.
 
-
-## Implementation
-
-### For Software:
-
-#### Installation
-```bash
-[Installation commands - e.g., npm install, pip install -r requirements.txt]
-```
-
-#### Run
-```bash
-[Run commands - e.g., npm start, python app.py]
-```
-
-### For Hardware:
-
-#### Components Required
-[List all components needed with specifications]
-
-#### Circuit Setup
-[Explain how to set up the circuit]
+- **Feature 5: Clean & Interactive UI**  
+  Modern user interface with responsive design for better user experience.
 
 ---
+
+# Implementation
+
+## For Software:
+
+### Installation
+
+No special installation is required since this is a static web project.
+
+```bash
+# Clone the repository
+git clone https://github.com/sreeeyuktha/placement-reality-check2.git
+
+# Navigate into the project folder
+cd placement-reality-check2
+```
+
+No additional dependencies are required.
+
+---
+
+### Run
+
+You can run the project using any of the following methods:
+
+**Method 1: Directly Open**
+```bash
+# Open index.html in your web browser
+```
+
+**Method 2: Using Live Server (Recommended)**
+```bash
+# Install Live Server extension in VS Code
+# Right-click index.html → Open with Live Server
+```
+
+---
+
+## For Hardware:
+
+### Components Required
+
+- Laptop or Desktop Computer  
+- Minimum 4GB RAM  
+- Modern Web Browser (Chrome/Edge/Firefox)  
+- Stable Internet Connection (for hosting or GitHub Pages deployment)
+
+### Circuit Setup
+
+Not applicable.  
+This project is purely software-based and does not require any hardware circuit setup.
+
 
 ## Project Documentation
 
