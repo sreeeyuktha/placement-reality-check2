@@ -2,7 +2,7 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# Placement Reality Check System🎯
 
 ## Basic Details
 
@@ -13,45 +13,56 @@
 - Member 2: [Name] - [College]
 
 ### Hosted Project Link
-[mention your project hosted link here]
+ https://sreeeyuktha.github.io/placement-reality-check2/
 
 ### Project Description
-[2-3 lines about what your project does]
+Placement Reality Check System is a web-based tool that evaluates a student's readiness for their dream job.
+It compares user-entered skills with job role requirements and identifies matched and missing skills.
+The system generates a readiness score and personalized feedback to help students improve their placement chances.
 
 ### The Problem statement
-[What problem are you solving?]
+Many students are unsure whether their current skills match the requirements of their dream job.
+They often apply for placements without knowing the skill gaps, which reduces their chances of selection.
+There is a need for a simple system that analyzes skills and provides clear feedback on job readiness.
 
 ### The Solution
-[How are you solving it?]
 
----
+The Placement Reality Check System allows users to enter their skills and select a desired job role.
+The system compares the entered skills with predefined job requirements and identifies matched and missing skills.
+It then generates a readiness score and feedback to help students improve strategically.
+
 
 ## Technical Details
 
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+Languages used: HTML, CSS, JavaScript
+Frameworks used: None (Vanilla JavaScript)
+Libraries used: None
+Tools used: VS Code, Git, GitHub, Web Browser
 
 **For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
+Main components: Computer/Laptop
+Specifications: Minimum 4GB RAM, Modern web browser (Chrome/Edge/Firefox)
+Tools required: Internet connection, Code editor
 
 ---
 
 ## Features
 
-List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+Feature 1: Skill Input System
+Users can enter their technical skills in a simple comma-separated format.
 
----
+Feature 2: Job Role Selection
+Users can select their dream job from a predefined list of roles.
+
+Feature 3: Skill Matching Analysis
+The system compares user skills with required job skills and identifies matched and missing skills.
+
+Feature 4: Readiness Score & Feedback
+Generates a placement readiness score along with suggestions for improvement.
+
 
 ## Implementation
 
