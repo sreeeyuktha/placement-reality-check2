@@ -1,0 +1,126 @@
+/* Background */
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(135deg, #4e73df, #8e44ad);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+/* Main Card */
+.container {
+    width: 480px;
+    background: #ffffff;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+    text-align: center;
+}
+
+/* Main Heading */
+h1 {
+    margin-bottom: 10px;
+    font-size: 28px;
+    color: #222;
+}
+
+/* Subtitle */
+.subtitle {
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 25px;
+}
+
+/* Labels */
+
+label { 
+    display: block; 
+    text-align: left; 
+    font-weight: 600; 
+    margin-bottom: 6px; 
+    margin-top: 15px; 
+}
+
+textarea {
+    width: 100%;          /* fills the form card */
+    height: 90px;         /* increase box size */
+    padding: 10px;
+    font-size: 14px;
+
+    border-radius: 8px;
+    border: 1px solid #999;
+    outline: none;
+
+    resize: none;         /* prevents manual drag resize */
+    box-sizing: border-box;
+}
+
+
+/* Input & Select */
+input, select {
+    width: 100%;
+    padding: 12px;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+/* Button */
+button {
+    width: 100%;
+    padding: 13px;
+    margin-top: 20px;
+    background: linear-gradient(90deg, #5a8dee, #3f51b5);
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+button:hover {
+    transform: translateY(-2px);
+    opacity: 0.9;
+}
+
+/* Report Section */
+.report {
+    margin-top: 30px;
+    padding: 25px;
+    border-radius: 15px;
+    background: #f8f9fc;
+    text-align: left;
+    line-height: 1.8;
+    border-left: 5px solid #5a8dee;
+}
+
+/* Report Heading */
+.report h3 {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+/* Matched */
+.matched {
+    color: #2ecc71;
+    font-weight: 600;
+}
+
+/* Missing */
+.missing {
+    color: #e74c3c;
+    font-weight: 600;
+}
+
+/* Score */
+.score {
+    font-size: 17px;
+    font-weight: bold;
+    color: #3f51b5;
+}
