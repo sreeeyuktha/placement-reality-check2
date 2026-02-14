@@ -37,10 +37,13 @@ It then generates a readiness score and feedback to help students improve strate
 ### Technologies/Components Used
 
 **For Software:**
-Languages used: HTML, CSS, JavaScript
-Frameworks used: None (Vanilla JavaScript)
-Libraries used: None
-Tools used: VS Code, Git, GitHub, Web Browser
+-Languages used: HTML, CSS, JavaScript
+
+-Frameworks used: None (Vanilla JavaScript)
+
+-Libraries used: None
+
+-Tools used: VS Code, Git, GitHub, Web Browser
 
 **For Hardware:**
 Main components: Computer/Laptop
