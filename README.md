@@ -37,6 +37,7 @@ It then generates a readiness score and feedback to help students improve strate
 ### Technologies/Components Used
 
 **For Software:**
+
 -Languages used: HTML, CSS, JavaScript
 
 -Frameworks used: None (Vanilla JavaScript)
@@ -46,24 +47,27 @@ It then generates a readiness score and feedback to help students improve strate
 -Tools used: VS Code, Git, GitHub, Web Browser
 
 **For Hardware:**
-Main components: Computer/Laptop
-Specifications: Minimum 4GB RAM, Modern web browser (Chrome/Edge/Firefox)
-Tools required: Internet connection, Code editor
+
+-Main components: Computer/Laptop
+
+-Specifications: Minimum 4GB RAM, Modern web browser (Chrome/Edge/Firefox)
+
+-Tools required: Internet connection, Code editor
 
 ---
 
 ## Features
 
-Feature 1: Skill Input System
+-Feature 1: Skill Input System
 Users can enter their technical skills in a simple comma-separated format.
 
-Feature 2: Job Role Selection
+-Feature 2: Job Role Selection
 Users can select their dream job from a predefined list of roles.
 
-Feature 3: Skill Matching Analysis
+-Feature 3: Skill Matching Analysis
 The system compares user skills with required job skills and identifies matched and missing skills.
 
-Feature 4: Readiness Score & Feedback
+-Feature 4: Readiness Score & Feedback
 Generates a placement readiness score along with suggestions for improvement.
 
 
