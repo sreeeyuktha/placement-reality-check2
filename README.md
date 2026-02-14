@@ -150,13 +150,13 @@ a simble system that tells students the real probability of getting placed based
 
 **System Architecture:**
 
-![Architecture Diagram](docs/architecture.png)
-*Explain your system architecture - components, data flow, tech stack interaction*
+<img src="./architecture.jpeg" alt="Project Banner" width="100%">
+a rule based web system where user input flow through a flask frontend to a processing rules engine that generates structered web reports
 
 **Application Workflow:**
 
-![Workflow](docs/workflow.png)
-*Add caption explaining your workflow*
+<img src="./workflow.jpeg" alt="Project Banner" width="100%">
+a placement analysis workflow where user resume and skills are processed,scored,compared and converted into a placement readiness report with skill gap insights
 
 ---
 
