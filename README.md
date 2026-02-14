@@ -137,9 +137,9 @@ This project is purely software-based and does not require any hardware circuit 
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Screenshot 2026-02-14 042133.png)
+![Screenshot1](./Screenshot 2026-02-14 042133.png)
 *A 
-![Screenshot2](Screenshot 2026-02-14 042220.png)
+![Screenshot2](./Screenshot 2026-02-14 042220.png)
 *Add caption explaining what this shows*
 
 ![Screenshot3](Add screenshot 3 here with proper name)
